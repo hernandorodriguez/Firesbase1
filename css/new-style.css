@@ -1,0 +1,40 @@
+#name {
+	color: #ffca2a;
+}
+#name img {
+	height: 30px;
+}
+
+#carousel {
+	background-color: #ffca2a;
+	background-image: url(../img/cover.png);
+	background-size: 250px;
+	background-position: center 70px;
+	background-repeat: no-repeat;
+}
+
+.carousel-item {
+	height: 500px;
+}
+#carousel .carousel-caption {
+	background-color: #222;
+	width: 100%;
+	left: 0%;
+	height: 150px;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#Documentacion {
+	background-color: #333;
+	color: #fff;
+}
+
+video {
+	width:720px;
+}
+
+footer .container {
+	text-align: center;
+	color: #fff;
+}
